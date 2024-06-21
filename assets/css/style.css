@@ -1,0 +1,10 @@
+.card-hover {
+    background-color: hsl(205, 33%, 90%);
+    cursor: pointer;
+}
+
+.link-hover {
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+}
